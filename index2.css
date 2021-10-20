@@ -2,3 +2,7 @@ button{
     background:blue;
     color: white;
 }
+.body{
+    margin: 0;
+    padding: 0;
+}
