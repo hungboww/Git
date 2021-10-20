@@ -13,3 +13,9 @@ let d =(a,b)=>{
     return a+b
 }
 console.log(d)
+let language = "JavaScript";
+let text = "";
+
+for (let x of language) {
+    text += x + " ";
+}
