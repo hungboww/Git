@@ -1,1 +1,2 @@
 day la test rebase2222
+thu su dung git -d
